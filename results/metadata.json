@@ -1,0 +1,9 @@
+{
+  "recommended_submission": "results/submission_vessels.csv",
+  "public_score": 0.79775,
+  "later_residual_model_public_score": 0.78662,
+  "selection_basis": "highest reported public leaderboard score",
+  "sha256": "182dfae2786f166fbdc697f55bdbf21e87cdd3363b7c00c5f4f08b7fd4488843",
+  "data_included": false,
+  "weights_included": false
+}
